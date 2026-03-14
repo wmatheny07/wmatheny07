@@ -35,7 +35,7 @@ An end-to-end ETL pipeline that ingests ESPN API data, transforms it through a *
 ---
 
 ### Apple Health Data Export System
-A **FastAPI-based service** that pulls Apple Watch health metrics using Health AutoExport [Health Auto Export](https://www.healthyapps.dev/) and loads them into MinIO and DuckDB for analysis. Steps, heart rate, workouts, sleep — all queryable via SQL instead of locked inside the Health app.
+A **FastAPI-based service** that pulls Apple Watch health metrics using Health AutoExport (https://www.healthyapps.dev/) and loads them into MinIO and DuckDB for analysis. Steps, heart rate, workouts, sleep — all queryable via SQL instead of locked inside the Health app.
 
 `Python` · `FastAPI` · `MinIO` · `DuckDB` · `Docker`
 
