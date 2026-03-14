@@ -48,6 +48,13 @@ A simulation-driven optimizer that generates DraftKings lineups using **weather-
 
 ---
 
+### Family Media Integration
+A lightweight authentication proxy that bridges apps like **FileBrowser Go** to an rclone-hosted WebDAV instance, letting family members securely upload photos and videos directly from their phones. Files land in a watched directory on my home server where **Plex** automatically picks them up — no cloud middleman, no sharing links, just a seamless pipeline from my wife's camera roll to the family library.
+
+`rclone` · `WebDAV` · `Docker` · `Nginx` · `Plex`
+
+---
+
 ### AI Agent Portal
 A web application built to give my family easy access to purpose-built AI agents — the first use case being a tool to help generate CaringBridge health updates for a family member. A small example of building technology that serves people, not the other way around.
 
