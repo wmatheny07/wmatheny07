@@ -51,7 +51,7 @@ A simulation-driven optimizer that generates DraftKings lineups using **weather-
 ### AI Agent Portal
 A web application built to give my family easy access to purpose-built AI agents — the first use case being a tool to help generate CaringBridge health updates for a family member. A small example of building technology that serves people, not the other way around.
 
-![Alt text](images/agents.png)
+![Alt text](assets/agents.png)
 
 `Python` · `Web Application` · `AI/LLM Integration`
 
