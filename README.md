@@ -1,4 +1,4 @@
-# Hey, I'm Wes 👋
+# Hi, I'm Wes 👋
 
 Data engineering and analytics leader by day, self-hosted infrastructure tinkerer by night. I hold an **M.S. in Analytics from Georgia Tech** and have spent 18+ years in IT consulting — most of it at the intersection of data platforms, operational analytics, and the teams that build them.
 
